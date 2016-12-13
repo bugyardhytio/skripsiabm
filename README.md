@@ -1,1 +1,1 @@
-# skripsiabm
+#  Agent-Based Urban Spatial Structure Model
