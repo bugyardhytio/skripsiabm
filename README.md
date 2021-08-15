@@ -1,6 +1,6 @@
 # Paper
 
-[Publikasi](https://ejournal3.undip.ac.id/index.php/pwk/article/viewFile/20507/19550) yang menjelaskan model ini.
+[Publikasi](https://ejournal3.undip.ac.id/index.php/pwk/article/viewFile/20507/19550) yang menjelaskan model ini, atau [link alternatif](https://www.researchgate.net/publication/327968547_Model_Simulasi_Aktivitas_Pergerakan_Penduduk_Berbasis_Agen_Studi_Kasus_Provinsi_DKI_Jakarta).
 
 Gunakan versi NetLogo 6.0.1 untuk run model.
 
