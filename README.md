@@ -4,7 +4,8 @@
 
 Gunakan versi NetLogo 6.0.1 untuk run model.
 
-# Pengembangan
+# Expanding Mobility Dataset Source from Basic LUTI Simulation
+## Pengembangan
 
 Asumsi awal model dibuat untuk mensimulasikan struktur kota berdasarkan dinamika pergerakan penduduk. Tapi berdasarkan [reel pada post ini](https://www.instagram.com/reel/CSll_hunCD0/?utm_source=ig_web_copy_link), model kemungkinan bisa digunakan untuk generate data pergerakan harian penduduk pada daerah-daerah yang tidak dilayani ride-hailing semisal uber movement. Namun untuk mencapai hal tersebut ada beberapa perbaikan yang perlu dilakukan:
 - Update untuk bisa di-run pada NetLogo versi terbaru. Hasil uji mengindikasikan tidak bisa dilakukan run pada NetLogo versi selain 6.0.1.
