@@ -1,7 +1,7 @@
 import tweepy
 
-consumer_token = "GG3j4A0jpSGXBt9D7aM4QzdBV"
-consumer_secret = "SsYRzE2on0xLWwPZ70Mi7YUabcaBaoohUFYlyEVjiw7mF5cFGB"
+consumer_token = "<<INSERT-TOKEN>>"
+consumer_secret = "<<INSERT-SECRET>>"
 
 def get_user_tokens(consumer_token, consumer_secret):
     auth = tweepy.OAuthHandler(consumer_token, consumer_secret)
